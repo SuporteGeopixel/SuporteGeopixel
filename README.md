@@ -1,4 +1,4 @@
-### Olá, Este repositório é dedicado para o Suporte N1 🌐 🖥️
+### Olá, Este repositório é dedicado para o Suporte N1 e N2 🌐 🖥️
 
 
 [![Blog](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://geopixel.com.br/)
